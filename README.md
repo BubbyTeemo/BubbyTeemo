@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey 👺
+
+
+I'm a composer and artist working on small games with BubbySoft 🎶💻
+
+Local Co-Op, Arcade & UK Jungle
 
 <!--
 **BubbyTeemo/BubbyTeemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
