@@ -1,7 +1,7 @@
 ## Hey 👺
 
 
-I'm a composer and artist working on small games with BubbySoft 🎶💻
+I'm a composer and artist working on games with BubbySoft 🎶💻
 
 Local Co-Op, Arcade & UK Jungle
 
